@@ -23,10 +23,7 @@ body {
     border: 4px solid orange;
     border-radius: 100px;
     padding: 22px 56px;
-   
 }
-
-
     
 svg {
     display: block
@@ -55,7 +52,6 @@ h1, h2, h3, h4, h5, p {
     background-color:transparent;
     z-index: 1000;
     
-
     .header-wrapper {
         display: flex;
         justify-content: space-between;
@@ -249,8 +245,6 @@ h1, h2, h3, h4, h5, p {
     text-decoration: underline;
 }
 
-
-
 .section-4 .showcase {
     display: flex;
     gap: 40px;
@@ -262,8 +256,6 @@ h1, h2, h3, h4, h5, p {
     flex-direction: column;
     background-color: #EEEEEE;
     border-radius: 18px;
-    
-   
 }
 
 .showcase img {
@@ -346,7 +338,7 @@ h1, h2, h3, h4, h5, p {
     padding: 70px 0;
 }
 
-.navigation-wrapper {
+.footer-wrapper .navigation-wrapper {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;

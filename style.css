@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, p {
   padding: 70px 0;
 }
 
-.navigation-wrapper {
+.footer-wrapper .navigation-wrapper {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
